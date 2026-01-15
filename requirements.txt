@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+torch
+shap
+opencv-python
+psycopg2-binary
